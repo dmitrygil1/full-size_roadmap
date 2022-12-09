@@ -1,16 +1,6 @@
 # План становления React-разработчиком
 
-[README in Chinese](README-CN.md)
-
 [README in English](README.md)
-
-[README in Japanese](README-JA.md)
-
-[README in Korean](README-KO.md)
-
-[README in Portuguese (Brazil)](README-PTBR.md)
-
-[README in Spanish](README-ES.md)
 
 > План, чтобы стать React-разработчиком:
 
@@ -25,6 +15,8 @@
 ![План изучения](./roadmap-ru.png)
 
 ## Ресурсы
+
+вот [тут](https://www.youtube.com/watch?v=hQ06mTbrEic) разжевывается для тугих: 
 
 1. Основы
     1. HTML
